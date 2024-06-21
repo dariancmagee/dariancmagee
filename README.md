@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariancmagee
 - 👀 My interests include ... fitness, comic books, plant based cuisine, traveling, and sports.
-- 🌱 I’m currently learning ... Python3, C#, Unity and BrightScript.
+- 🌱 I’m currently learning ... digital marketing.
 - 💞️ I’m looking to collaborate on ... creating and updating games or apps.
 - 📫 How to reach me ... dariancmagee@gmail.com, or https://www.linkedin.com/in/darian-magee-76109974/
 
